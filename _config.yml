@@ -1,8 +1,14 @@
+source: .
+destination: ./_site
+
 title: Pet Friendly
 short_description: PetFriendly um submódulo de StreetPet
 description: >- # this means to ignore newlines until "baseurl:"
   Um projeto desenvolvido pela Equipe StreetPet. 
 baseurl: "/"
+
+github_username:  streetpet
+repository: streetpet/jekyll-theme-naveenshaji-material
 
 # google services
 ganalytics: UA-156621148-2
@@ -19,9 +25,9 @@ collections:
     permalink: /main/:name
 
   defaults:
-  - scope:
-      path: 'assets/images'
-      type: 'main'
+    - scope:
+        path: 'assets/images'
+        type: 'main'
   values:
     image: true
 
@@ -32,7 +38,7 @@ email: petfriendly@carlosdelfino.eti.br
   
 # social
 twitter:
-facebook: PetFriendly-103816844510377
+facebook: PetFriendly.oficial.br
 instagram:
 linkedin:
 youtube:
@@ -41,4 +47,4 @@ github: github.com/streetpet
 dribbble:
 
 # copyright
-owner: streetpet.app.web
+owner: https://streetpet.app.web
