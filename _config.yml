@@ -1,13 +1,13 @@
-title: MrWooo
-short_description: This is Solid State
+title: Pet Friendly
+short_description: PetFriendly um submódulo de StreetPet
 description: >- # this means to ignore newlines until "baseurl:"
-  Another free + fully responsive site template by <a href="http://html5up.net">HTML5 UP</a> and packaged for Jekyll by <a href="https://www.mrwooo.com">MrWooo</a>
+  Um projeto desenvolvido pela Equipe StreetPet. 
 baseurl: "/"
 
 # google services
-ganalytics: UA-122812748-2
+ganalytics: UA-156621148-2
 gtagmanager:
-gmapsapikey:
+gmapsapikey: AIzaSyDxbkicoGy26nUK4NdjILbxzPQcLEc3sTQ
 
 # facebook
 fpixel:
@@ -28,17 +28,17 @@ collections:
 # contacts
 address:
 phone:
-email: hello@mrwooo.com
+email: petfriendly@carlosdelfino.eti.br
   
 # social
 twitter:
-facebook:
+facebook: PetFriendly-103816844510377
 instagram:
 linkedin:
 youtube:
 googleplus:
-github: github.com/dleone81
+github: github.com/streetpet
 dribbble:
 
 # copyright
-owner: MrWooo.com
+owner: streetpet.app.web
